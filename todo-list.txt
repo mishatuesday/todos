@@ -3,3 +3,6 @@ Misha's Git To-Do List:
 1. make this file
 2. commit changes, which I think will need -am?
 3. make more changes, and commit... will I still need -a?
+4. this is a practice lab from Flatiron School
+5. I should really have a README, but this is only a lab
+6. Delete all the labs I don't want in my portfolio, eventually.
